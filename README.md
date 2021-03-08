@@ -8,26 +8,15 @@ The sensor positioned on the chest also provides 2-lead ECG measurements, which 
 ACTIVITY SET
 The activity set is listed in the following:
 
-L1: Standing still (1 min)
-
-L2: Sitting and relaxing (1 min)
-
-L3: Lying down (1 min)
-
-L4: Walking (1 min)
-
-L5: Climbing stairs (1 min)
-
-L6: Waist bends forward (20x)
-
-L7: Frontal elevation of arms (20x)
-
-L8: Knees bending (crouching) (20x)
-
-L9: Cycling (1 min)
-
-L10: Jogging (1 min)
-
-L11: Running (1 min)
-
-L12: Jump front & back (20x)
+*L1: Standing still (1 min)
+*L2: Sitting and relaxing (1 min)
+*L3: Lying down (1 min)
+*L4: Walking (1 min)
+*L5: Climbing stairs (1 min)
+*L6: Waist bends forward (20x)
+*L7: Frontal elevation of arms (20x)
+*L8: Knees bending (crouching) (20x)
+*L9: Cycling (1 min)
+*L10: Jogging (1 min)
+*L11: Running (1 min)
+*L12: Jump front & back (20x)
